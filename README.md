@@ -1,7 +1,7 @@
-# How to set the size the for caption image in WinForms Form(SfForm)?
+# How to set the size for caption image in title bar of WinForms Form(SfForm)?
 
 ## About the sample
-This example illustrates how to set the size the for caption image in WinForms Form(SfForm)
+This example illustrates how to set the size for caption image in title bar of WinForms Form(SfForm)
 
 By default, SfForm does not provide the direct support for set the Caption Image Size in TitleBarControl in SfForm. You can achieve this by customizing the Image by using ImageList then added into CaptionImage.
 

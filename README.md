@@ -13,6 +13,9 @@ By default, [WinForms Form](https://www.syncfusion.com/winforms-ui-controls/form
    this.Style.TitleBar.CaptionImage = list.Images[0];
    this.Style.TitleBar.CaptionImageLocation = new Point(40, 4);
 ```
+
+![ImageSize](ImageSize.gif)
+
 ## Requirements to run the demo
 Visual Studio 2015 and above versions
 
